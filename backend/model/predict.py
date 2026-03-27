@@ -75,7 +75,7 @@ CONDITION_DESCRIPTIONS: Dict[str, str] = {
     ),
 }
 
-CONFIDENCE_THRESHOLD = 0.65
+CONFIDENCE_THRESHOLD = 0.45
 
 
 class SkinDiseasePredictor:

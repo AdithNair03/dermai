@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import axios from 'axios'
 
-const BASE = '/api'
+const BASE = 'https://dermai-backend-jrje.onrender.com/api'
 
 export function useSkinAnalysis() {
   const [state, setState] = useState({
