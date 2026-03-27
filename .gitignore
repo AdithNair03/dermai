@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+*.pyc
+venv/
+skin_env/
+.env
+*.log
+*.zip
+*.h5
+*.keras
+backend/data/
+backend/logs/
