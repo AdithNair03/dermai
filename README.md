@@ -737,15 +737,13 @@ dermai/
 
 
 
-\## 👥 Team
-
 
 🙏 Acknowledgements
 
 
 
-[HAM10000 Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) — Tschandl et al., 2018
-[EfficientNet Paper](https://arxiv.org/abs/1905.11946) — Tan \& Le, ICML 2019
-[Focal Loss Paper](https://arxiv.org/abs/1708.02002) — Lin et al., ICCV 2017
+\- [HAM10000 Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) — Tschandl et al., 2018
+\- [EfficientNet Paper](https://arxiv.org/abs/1905.11946) — Tan \& Le, ICML 2019
+\- [Focal Loss Paper](https://arxiv.org/abs/1708.02002) — Lin et al., ICCV 2017
 
 
