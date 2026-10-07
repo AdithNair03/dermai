@@ -2,21 +2,6 @@
 
 
 
-<div align="center">
-
-
-
-\[!\[Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge\&logo=vercel)](https://dermai-beige.vercel.app)
-
-\[!\[Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge\&logo=render)](https://dermai-backend-jrje.onrender.com)
-
-\[!\[Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge\&logo=python)](https://python.org)
-
-\[!\[React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge\&logo=react)](https://reactjs.org)
-
-\[!\[TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-FF6F00?style=for-the-badge\&logo=tensorflow)](https://tensorflow.org)
-
-\[!\[License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 
 
