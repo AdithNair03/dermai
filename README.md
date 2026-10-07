@@ -455,11 +455,11 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\## 📊 Performance Results
+📊 Performance Results
 
 
 
-\### Model Comparison
+Model Comparison
 
 
 
@@ -475,7 +475,7 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\### Comparison with State-of-the-Art
+\ Comparison with State-of-the-Art
 
 
 
@@ -497,7 +497,7 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\### System Performance
+\ System Performance
 
 
 
@@ -521,7 +521,7 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\## 🔌 API Endpoints
+🔌 API Endpoints
 
 
 
@@ -547,7 +547,7 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\ 🚀 Getting Started
+🚀 Getting Started
 
 
 
@@ -561,7 +561,7 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\ 1. Clone the repo
+1. Clone the repo
 
 ```bash
 
@@ -573,7 +573,7 @@ cd dermai
 
 
 
-\ 2. Backend setup
+2. Backend setup
 
 ```bash
 
@@ -611,7 +611,7 @@ INFO: Application startup complete.
 
 
 
-\ 3. Frontend setup
+3. Frontend setup
 
 ```bash
 
@@ -625,7 +625,7 @@ npm run dev
 
 
 
-\ 4. Open in browser
+4. Open in browser
 
 ```
 
@@ -635,7 +635,7 @@ http://localhost:5173
 
 
 
-\ Demo Credentials
+Demo Credentials
 
 
 
@@ -736,7 +736,7 @@ dermai/
 
 
 
-\## 🙏 Acknowledgements
+\ 🙏 Acknowledgements
 
 
 
