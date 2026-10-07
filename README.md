@@ -740,56 +740,12 @@ dermai/
 \## 👥 Team
 
 
-
-| Name | Role | Contact |
-
-|---|---|---|
-
-| \*\*Adith Nair\*\* | ML Model · Backend · Refinement Engine | adithnair369@gmail.com |
-
-| \*\*Kevin John Manoj\*\* | Frontend · Q\&A Module · Deployment | kevin03.manoj@gmail.com |
+🙏 Acknowledgements
 
 
 
-\*\*Guide:\*\* Dr. A. Robert Singh
-
-Department of Computational Intelligence
-
-SRM Institute of Science and Technology, Kattankulatham
-
-
-
-\---
-
-
-
-\## 🙏 Acknowledgements
-
-
-
-\- \[HAM10000 Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) — Tschandl et al., 2018
-
-\- \[EfficientNet Paper](https://arxiv.org/abs/1905.11946) — Tan \& Le, ICML 2019
-
-\- \[Focal Loss Paper](https://arxiv.org/abs/1708.02002) — Lin et al., ICCV 2017
-
-\- SRM Institute of Science and Technology, Kattankulatham
-
-
-
-\---
-
-
-
-<div align="center">
-
-
-
-Made with ❤️ by \*\*Adith Nair\*\* \& \*\*Kevin John Manoj\*\* · SRM IST · 2026
-
-
-
-</div>
-
+[HAM10000 Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T) — Tschandl et al., 2018
+[EfficientNet Paper](https://arxiv.org/abs/1905.11946) — Tan \& Le, ICML 2019
+[Focal Loss Paper](https://arxiv.org/abs/1708.02002) — Lin et al., ICCV 2017
 
 
