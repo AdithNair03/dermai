@@ -547,11 +547,11 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\## 🚀 Getting Started
+\ 🚀 Getting Started
 
 
 
-\### Prerequisites
+\ Prerequisites
 
 \- Python 3.11
 
@@ -561,7 +561,7 @@ Scores renormalised to sum to 1 after adjustment.
 
 
 
-\### 1. Clone the repo
+\ 1. Clone the repo
 
 ```bash
 
@@ -573,7 +573,7 @@ cd dermai
 
 
 
-\### 2. Backend setup
+\ 2. Backend setup
 
 ```bash
 
@@ -611,7 +611,7 @@ INFO: Application startup complete.
 
 
 
-\### 3. Frontend setup
+\ 3. Frontend setup
 
 ```bash
 
@@ -625,7 +625,7 @@ npm run dev
 
 
 
-\### 4. Open in browser
+\ 4. Open in browser
 
 ```
 
@@ -635,13 +635,11 @@ http://localhost:5173
 
 
 
-\### Demo Credentials
+\ Demo Credentials
 
 
 
 | Username | Password |
-
-|---|---|
 
 | `demo` | `demo123` |
 
@@ -659,7 +657,7 @@ http://localhost:5173
 
 
 
-\## 📁 Project Structure
+\ 📁 Project Structure
 
 
 
